@@ -1,0 +1,9 @@
+body {
+  background: radial-gradient(circle, #0f0020, #000);
+  color: #fff;
+  font-family: Arial;
+  text-align: center;
+}
+h1 {
+  text-shadow: 0 0 15px #00ffff;
+}
